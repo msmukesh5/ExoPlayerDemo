@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Mukesh/Projects/ExoPlayerDemo/ExoPlayerLib/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/Mukesh/Projects/ExoPlayerDemo/ExoPlayerLib/src/release/jniLibs"/></dataSet></merger>
